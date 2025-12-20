@@ -18,12 +18,12 @@
 
 ### 🧠 Currently Focused On
 
-- 🔭 Working on: [Sudoku Solver](https://sudoku-fkny.vercel.app/)
+- 🔭 Working on: [RealEstate Freelance Project](https://realestatex-dia7.onrender.com)
 - 🌱 Learning: `React.js`, `Advanced DSA`, `System Design`
 - 🤝 Open to collaboration: Software Engineering projects & MERN stack
 - 💬 Ask me about: C++, JavaScript, Frontend , Backend Development
 - 📫 Reach me at: **priyanshusaini982@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1T4Oftf1taxAjggU9bmusYUneZYNrK9xm/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1YWwtRtdzQ-tata1JXmZJmsBXjq9e_08A/view?usp=sharing)
 - ⚡ Fun Fact: I enjoy reading novels & reverse-engineering websites
 
 ---
